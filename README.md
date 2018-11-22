@@ -58,6 +58,7 @@ print(pd.Series(news.target_names))
 
 输出：
 ```
+0                  alt.atheism
 1                comp.graphics
 2      comp.os.ms-windows.misc
 3     comp.sys.ibm.pc.hardware
