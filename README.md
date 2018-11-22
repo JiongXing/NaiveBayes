@@ -80,7 +80,7 @@ print(pd.Series(news.target_names))
 19          talk.religion.misc
 ```
 
-共有19个类别。
+共有20个类别。
 
 # 划分数据集
 把获取到的数据集划分为训练集和测试集，75%用作训练，25%用作测试：
